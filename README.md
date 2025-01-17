@@ -9,3 +9,6 @@ Features
 A simple user interface with an input field for user queries.
 Chat messages are displayed in a conversation format.
 The chatbot responds to user inputs with pre-programmed messages.
+The chatbot can be used with an API to have a normal converstation.
+
+
